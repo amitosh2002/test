@@ -1,5 +1,0 @@
-{{#user}}
-Name: Amitosh kumar
-Skills: HTML, CSS, JS, React.js,Bootstrap
-Email: amitoshroy2002@gmail.com
-{{/user}}
